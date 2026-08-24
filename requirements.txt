@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly
+google-genai>=2.3.0
+python-dotenv
